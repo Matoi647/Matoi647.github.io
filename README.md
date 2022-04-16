@@ -1,4 +1,3 @@
-# Matoi647.github.io
 一级标题
 ===
 二级标题
@@ -102,3 +101,6 @@ public class Lab03a_1{
 
 #### 以下为链接
 [这是我的GitHub链接](https://matoi647.github.io/)
+
+### 以下为图片
+![图片1](https://github.com/Matoi647/Matoi647.github.io/blob/main/static/%E5%9B%BE%E7%89%871.png)
